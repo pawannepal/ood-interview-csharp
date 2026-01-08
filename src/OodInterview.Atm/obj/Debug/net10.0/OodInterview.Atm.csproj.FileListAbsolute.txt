@@ -1,0 +1,12 @@
+C:\projects\ood-interview\src\OodInterview.Atm\bin\Debug\net10.0\OodInterview.Atm.deps.json
+C:\projects\ood-interview\src\OodInterview.Atm\bin\Debug\net10.0\OodInterview.Atm.dll
+C:\projects\ood-interview\src\OodInterview.Atm\bin\Debug\net10.0\OodInterview.Atm.pdb
+C:\projects\ood-interview\src\OodInterview.Atm\obj\Debug\net10.0\OodInterview.Atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ood-interview\src\OodInterview.Atm\obj\Debug\net10.0\OodInterview.Atm.AssemblyInfoInputs.cache
+C:\projects\ood-interview\src\OodInterview.Atm\obj\Debug\net10.0\OodInterview.Atm.AssemblyInfo.cs
+C:\projects\ood-interview\src\OodInterview.Atm\obj\Debug\net10.0\OodInterview.Atm.csproj.CoreCompileInputs.cache
+C:\projects\ood-interview\src\OodInterview.Atm\obj\Debug\net10.0\OodInterview.Atm.sourcelink.json
+C:\projects\ood-interview\src\OodInterview.Atm\obj\Debug\net10.0\OodInterview.Atm.dll
+C:\projects\ood-interview\src\OodInterview.Atm\obj\Debug\net10.0\refint\OodInterview.Atm.dll
+C:\projects\ood-interview\src\OodInterview.Atm\obj\Debug\net10.0\OodInterview.Atm.pdb
+C:\projects\ood-interview\src\OodInterview.Atm\obj\Debug\net10.0\ref\OodInterview.Atm.dll
