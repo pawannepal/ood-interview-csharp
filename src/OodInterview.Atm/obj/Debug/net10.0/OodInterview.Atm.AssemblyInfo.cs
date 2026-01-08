@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OodInterview.Atm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+197a5fe077103c16997c205cda6da8d717fdd17f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed25e213422b9f6d7b8b2c62c7f6aec6480fe529")]
 [assembly: System.Reflection.AssemblyProductAttribute("OodInterview.Atm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OodInterview.Atm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
